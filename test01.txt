@@ -4,5 +4,6 @@ GITの練習用ファイル
 ・git commit
 
 更に変更！！
+・git status
 
 
