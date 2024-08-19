@@ -3,6 +3,5 @@ GITの練習用ファイル
 ・git add
 ・git commit
 
-更に変更！！
 
 
