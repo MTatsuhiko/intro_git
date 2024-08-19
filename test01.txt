@@ -5,5 +5,5 @@ GITの練習用ファイル
 
 更に変更！！
 ・git status
-
+・git diff
 
