@@ -7,5 +7,7 @@ git diff --staged
 git rm
 git rm -r
 git rm --cached
-
-
+git reset HEAD 
+git checkout 
+git rm --cached
+git move [old] [new]
